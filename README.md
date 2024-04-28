@@ -1,16 +1,12 @@
 # todo_app
 
-A new Flutter project.
+A simple todo app made with flutter and Hive ❤️
 
-## Getting Started
+## The app allows the user to:
 
-This project is a starting point for a Flutter application.
+- Take todo notes
+- Mark them as complete or incomplete
+- Delete the todos
+- The todos are saved unto the device's memory using the Hive package 📦
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
