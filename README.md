@@ -10,3 +10,7 @@ A simple todo app made with flutter and Hive ❤️
 - The todos are saved unto the device's memory using the Hive package 📦
 
 
+## How to run:
+- run `git clone https://github.com/Morgan11-tech/todo_app.git`
+- Navigate to project directory, navigate to the `pubspec.yaml` file and run `pub upgrade`
+- Run `main.dart` in the directory
